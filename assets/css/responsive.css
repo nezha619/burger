@@ -1,0 +1,74 @@
+@media (max-width: 768px) {
+    .hero-con h1{
+        font-size: 80px;
+    }
+    .hero-con h2{
+        font-size: 50px;
+    }
+    .hero-con p{
+        font-size: 18px;
+    }
+    .evets-con h1{
+        font-size: 3rem;
+    }
+    .table-btn{
+        font-size: 14px;
+        padding: 8px 0;
+    }
+}
+
+@media (max-width: 576px) {
+    .hero-con h1{
+        font-size: 3rem;
+    }
+    .prod-con h1{
+        font-size: 1rem;
+    }
+    .evets-con h1{
+        font-size: 1.5rem;
+    }
+    .reservation-part{
+        margin-bottom: 100px;
+    }
+    .table-btn{
+        font-size: 14px;
+        padding: 8px 0;
+    }
+    .icons ul li{
+        padding-bottom: 0;
+        font-size: 14px;
+    }
+    footer ul li a{
+        height: 25px;
+        width: 25px;
+        margin: 10px;
+    }
+    footer ul li i{
+        font-size: 10px;
+    }
+    footer p{
+        display: flex;
+        padding-top: 8px;
+    }
+}
+
+@media (max-width: 320px) {
+    .footer-con-main{
+        margin-top: 10px;
+    }
+    .table-btn{
+        font-size: 10px;
+        padding: 4px 0;
+    }
+    footer ul li a{
+        height: 25px;
+        width: 25px;
+        margin: 10px;
+    }
+    footer ul li i{
+        font-size: 10px;
+    }
+    footer p{
+        font-size: 10px;
+    }
+}
